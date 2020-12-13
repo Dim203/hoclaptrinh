@@ -1,0 +1,155 @@
+
+body{
+	width: 80%;
+	padding: auto;
+	margin: auto;
+}
+
+	.cv{
+		padding: 0px;
+		margin: auto;
+		width: 80%;
+		height:100%;
+	}
+
+	.area1{
+		width: 90%;
+		margin: auto;
+	}
+		.communications{
+			width: 70%;
+			height: 40%;
+			border: 2px solid #45769E;
+			float: left;
+		}
+				.above p{
+					margin-left: 10px;
+					margin-bottom: -15px;
+					width: 70%;
+				    height: 40%;
+				}
+
+				p.above{
+					margin: 2px;
+				}
+
+				.below{
+					width: 70%;
+				    height: 40%;
+				    margin-top: 80px;
+				    margin-left: 91px;
+				}
+		.avatar{
+				width: 28.5%;
+				float: left;
+				border-style: solid;
+				border-color: #45769E;
+			    border-width: 2px 2px 2px 0px ;
+			}
+
+			.avatar img{
+				width: 100%;
+				margin-left: auto;
+				margin-right: auto;
+				display: block;
+				/*margin-bottom: 6px;*/
+			    /*margin-top: 6px;*/
+			}
+
+	.area2{
+		width: 90%;
+		margin-bottom: 20px;
+		margin-left: 40px;
+		float: left;
+	}
+
+	h1,h2{
+		color: #45769E;
+		text-align: center;
+	}
+
+	h2{
+	    font-family: Times New Roman;
+	    font-size: 24px;
+	    font-weight: lighter;/*200*/
+	    margin-top: 6px;
+	}
+
+	p {
+	  color: #45769E;
+	  font-family: Times New Roman;
+	}
+
+		.title1{
+			width: 100%;
+			height: 50px;
+			text-align: left;
+			background-color: #5E9BDA;
+			border-radius: 5px;
+			margin-top: -19px;
+			margin-left: 16px;
+			}
+
+			.title1 p{
+				color: white;
+				margin-left: 10px;
+				line-height: 50px;
+				font-size: 20px;
+				font-family: Times New Roman;
+			}
+
+			.content1{
+				width: 100%;
+			}
+
+			.content1 b{
+				margin-right: 25px;
+			}
+			.content1 ul{
+					width: 100%;
+					margin-left: 16px;
+					color: #45769E;
+			}
+
+			ul li p{
+				font-size: 20px; 
+			} 
+
+			.content1 ul li p {
+				line-height: 10px;
+			}
+
+			.text{
+			font-weight: bold;
+			color: #45769E;
+			font-size: 20px;
+			font-family: Times New Roman;
+			margin-right: 7px;
+				}
+		.title2{
+			width: 100%;
+			height: 50px;
+			text-align: left;
+			background-color: #5E9BDA;
+			border-radius: 5px;
+			margin-left: 16px;
+		}
+
+			.title2 p{
+				color: white;
+				margin-left: 10px;
+				line-height: 50px;
+				font-size: 20px;
+				font-family: Times New Roman;
+			}
+
+
+			.content2 ul{
+				width: 95%;
+				margin-left: 16px;
+				color: #45769E;
+			}
+			.content2 ul li b {
+				margin-right: 7px;
+
+			}
