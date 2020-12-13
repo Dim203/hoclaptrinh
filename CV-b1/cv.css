@@ -122,7 +122,7 @@ body{
 
 			.text{
 			font-weight: bold;
-			color: #45769E;
+			/*color: #45769E;*/
 			font-size: 20px;
 			font-family: Times New Roman;
 			margin-right: 7px;
@@ -148,9 +148,10 @@ body{
 			.content2 ul{
 				width: 95%;
 				margin-left: 16px;
-				color: #45769E;
 			}
 			.content2 ul li b {
 				margin-right: 7px;
-
+			}
+			ul{
+				color: #45769E;
 			}
