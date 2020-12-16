@@ -8,7 +8,7 @@ p{
 	text-align: center;
 	margin: 5px
 }
-#header{
+#frames{
 	width: 70%;
 	height: 640px;
 	margin: auto;
@@ -18,8 +18,10 @@ p{
 		width: 92%;
 		height: 100px;
 		margin-left: 30px;
-		background-color: #9BBB58;
 		border: 3px solid white;
+	}
+	.color-green{
+		background-color: #9BBB58 !important;
 	}
 	#header1 p{
 	    text-align: center;
@@ -49,7 +51,6 @@ p{
 				width: 95%;
 				height: 10%;
 				margin-left: 12px;
-				background-color: #9BBB58;
 				border: 3px solid white;
 			}
 			
@@ -66,15 +67,19 @@ p{
 					width: 93%;
 					height: 14%;
 					margin-left: 12px;
-					background-color: #9BBB58;
 					border: 3px solid white;
 				}
+				.color-orange{background-color: #F79647 !important;
+				}
+				.color-white{background-color: white !important;
+				}	
+				.color-red{background-color: #C0504E !important; /*uu tien class*/ 
+				}	
 				.s1-a-para1{
 					width: 93%;
 					height: 14%;
 					margin-top: 6px;
 					margin-left: 12px;
-					background-color: #F79647;
 					border: 3px solid white;
 				}
 				.s1-a-para2{
@@ -86,7 +91,6 @@ p{
 						width: 58%;
 						height: 38px;
 						margin-left: 12px;
-						background-color: #F79647;
 						border: 3px solid white;
 						float: left;
 					}
@@ -94,7 +98,6 @@ p{
 					width: 33%;
 					height: 33px;
 					margin-right: 10px;
-					background-color: white;
 					border: 1px solid black;
 					float: right;
 					}
@@ -103,7 +106,6 @@ p{
 				height: 14%;
 				margin-left: 11px;
 				margin-top: 13px;
-				background-color: white;
 				border: 1px solid black;
 				}	
 
@@ -128,14 +130,12 @@ p{
 			width: 82%;
 			height: 66%;
 			margin-left: 20px;
-			background-color: white;
 			border: 3px solid black;
 			}
 	#footer{
 		width: 92%;
 		height: 36px;
 		margin-left: 28px;
-		background-color: white;
 		border: 3px solid black;
 		float: left;
 		margin-top: 30px;
