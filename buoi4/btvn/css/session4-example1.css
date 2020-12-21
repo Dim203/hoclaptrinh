@@ -1,0 +1,132 @@
+.box{
+	height: 600px;
+	width: 90%;
+	margin: auto;
+}
+#main{
+	width: 90%;
+	height: 80%;
+	border: 2px solid #CF20DD;
+}
+.m-header{
+	width: 100%;
+	height: 25%;
+	margin-top:-15px;
+
+}
+.m-header1{
+	width: 100%;
+	height: 25%;
+}
+.m-header2{
+	width: 100%;
+	height: 70%;
+	background-color: #9CDEF6;
+}
+.color-grey{
+	background-color: #B8B2B4 !important;
+	color: #CF20DD;
+	line-height: 36px;
+	/*text-indent: 20px;*/
+}
+.color-lightgrey{
+	background-color: #E7E8EC !important;
+}
+p {
+	font-size: 15px;
+	text-indent: 20px;
+	font-weight: bold;
+	font-family: Arial;
+}
+.m-body{
+	width: 50%;
+	height: 50%;
+	line-height: 6;
+	color: #DE7464;
+}
+.container{
+	width: 56%;
+	height: 73%;
+	margin-left: 200px;
+	margin-top: -453px;
+	border: 2px solid red;
+}
+#header{
+	width: 97%;
+	height: 23%;
+	border: 2px solid #D4F05F;
+	color: #90C484;
+	margin: 10px;
+}
+#header p{
+	line-height: 0px;
+}
+#content{
+	width: 63%;
+	height: 70%;
+	border: 2px solid #3FE53D;
+	color: #3FE53D;
+	margin-left: 10px;
+	float: left;
+}
+#content p {
+	margin-bottom: 79px;
+}
+#news{
+	width: 95%;
+	height: 52%;
+	border: 2px solid #3130CA;
+	color: #3130CA;
+	margin-left: 7px;
+}
+#sidebar{
+	width: 32%;
+	height: 70%;
+	border: 2px solid #DFA14C;
+	float: right;
+	margin-right: 6px;
+}
+.box2{
+	width: 100%;
+	height:86%;
+	color: #DFA14C;
+	margin-top: -10px;
+	background-color: #E7E8EC;
+}
+.box2 p{
+	padding-top: 10px;
+	margin-left: 30px;
+}
+.s-box2{
+	width: 91%;
+    height: 21%;
+	color: #CF20DD;
+	margin-left: 7px;
+	margin-bottom: 9px;
+	border: 2px solid #CF20DD;
+	background-color: white;
+}
+.s-box2 p{
+	line-height:2;
+	font-size: 14px !important;
+	padding-top: 0px !important;
+	margin-left: 0px !important;
+}
+#footer{
+	width: 90%;
+	height: 15%;
+	border: 2px solid #4BB6C0;
+	background-color: #E7E8EC;
+	color: #4BB6C0;
+	margin-top: 25px;
+}
+
+.footer{
+	width: 62%;
+	height: 70%;
+	border: 2px solid #98DC55;
+	color: #6F8254;
+	margin-top: -37px;
+    /*margin-right: 137px;
+	float: right;*/
+}
