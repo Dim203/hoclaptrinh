@@ -84,14 +84,13 @@ ul{
 	}
 
 .grey a{
-	color: #CBC9C9; /*set màu cho link*/
+	color: #CBC9C9;
+	 /*set màu cho link*/
 }
 .green a{
 	color: #82C659;
 }
-.yellow a{
-	color: #EECE76;
-}
+
 .body h3{
 	font-size: 25px;
 	font-family: Arial;
