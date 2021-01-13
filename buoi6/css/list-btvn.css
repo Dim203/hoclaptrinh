@@ -5,19 +5,19 @@
 }
 
 
-body{
+body {
 	width: 100%;
 	min-height: 630px;
 	background-image: linear-gradient(to bottom, white,  #fbd49b); 
 	/*hiệu ứng đổ màu đổ từ #fbd49b đến trắng theo hướng từ dưới lên*/
 }
-.box{
+.box {
 	width: 97%;
 	height: 680px;
 	margin: 0 auto;
 	/*căn giữa box*/
 }
-.block{
+.block {
 	width: 100%;
 	height: 660px;
 	margin-top: 25px;
@@ -28,13 +28,13 @@ body{
 	/*Đổ bóng*/
 }
 
-.header{
+.header {
 	width: 92%;
 	height: 100px;
 	/*border-bottom: 2px solid orange; dòng ngạch ngang dưới màu cam*/
 	margin: 20px 0px 0px 30px;/*trên phải dưới trái*/
 }
-.header-left{
+.header-left {
 	width: 10%;
 	height: 100%;
 	float: left;
@@ -42,38 +42,38 @@ body{
 	
 
 }
-.header-right{
+.header-right {
 	width: 83%;
 	height: 80%;
 	float: left;	
 }
-.top{
+.top {
 	width: 100%;
 	height: 65%;
 }
-h1{
+h1 {
 	color: #ECAE18;
 	font-size: 45px;
 	text-shadow: 6px 2px 2px #586065;/*đổ bóng chữ*/
 	font-family: Arial;
 	letter-spacing: 5px;
 }
-.bottom{
+.bottom {
 	width: 100%;
 	height: 50%;
 }
-.bottom h2{
+.bottom h2 {
 	color: #78AE7B;
 	font-family: Arial;
 	font-size: 30px;
 }
-ul.menu{
+ul.menu {
 	width: 92%;
     height: 45px;
     border-top: 2px solid orange;
 	border-bottom: 2px solid orange;
 }
-ul.menu li{
+ul.menu li {
 	display: inline-block;
     list-style-type: none;
     font-weight: bold;
@@ -85,12 +85,15 @@ ul.menu li{
 ul.menu li a {
 	color: #78AE7B;
 }
-.body{
+ul.menu li.home a {
+	color: orange;
+}
+.body {
 	width: 91%;
 	height: 415px;
 	margin-left: 35px;
 }
-.body-left{
+.body-left {
 	width: 64%;
 	height: 400px;
 	margin-left: 30px;
@@ -110,44 +113,48 @@ ul{
 	font-family: Arial;
 	}
 
-.grey a{
+.grey a {
 	color: #CBC9C9;
 	 /*set màu cho link*/
 }
-.green a{
+.green a {
 	color: #82C659;
 }
 
-.body h3{
+.yellow a {
+	color: orange;
+}
+
+.body h3 {
 	font-size: 25px;
 	font-family: Arial;
 }
-.body p{
+.body p {
 	margin-top: 10px;
 	font-family: Arial;
 }
-.contact{
+.contact {
 	width: 100%;
 	margin-top: 30px;
 	margin-bottom: 30px;
 }
-.body-right{
+.body-right {
 	width: 30%;
 	height: 400px;
 	margin-left: 30px;
 	float: right;
 }
-.color{
+.color {
 	color: #82C659;
 	font-weight: bold;
 }
-.footer{
+.footer {
 	width: 92%;
 	height: 10%;
 	border-top: 2px solid orange; /*gạch ngang màu cam*/
 	margin-left: 28px;
 }
-.footer p{
+.footer p {
 	float: right;
 	margin-right: 10px;
 	padding-top: 14px;
