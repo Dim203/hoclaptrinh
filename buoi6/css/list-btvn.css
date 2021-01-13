@@ -75,10 +75,9 @@ ul.menu{
 }
 ul.menu li{
 	display: inline-block;
-    width: 15%;
     list-style-type: none;
     font-weight: bold;
-    margin: 3.6px -15px 3.6px 0px;/*trên phải dưới trái*/
+    margin: 3.6px 6px 3.6px 0px;/*trên phải dưới trái*/
     padding: 10px;
     border-right: 2px solid silver;
     text-align: center;
