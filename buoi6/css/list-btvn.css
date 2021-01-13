@@ -31,7 +31,7 @@ body{
 .header{
 	width: 92%;
 	height: 100px;
-	border-bottom: 2px solid orange; /*dòng ngạch ngang dưới màu cam*/
+	/*border-bottom: 2px solid orange; dòng ngạch ngang dưới màu cam*/
 	margin: 20px 0px 0px 30px;/*trên phải dưới trái*/
 }
 .header-left{
