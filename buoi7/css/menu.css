@@ -1,0 +1,180 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.box {
+	margin-top: 70px;
+	width: 100%;
+	height: 550px;
+	font-family: arial;
+	font-size: 14px;
+}
+.box ul li {
+	list-style-type: none;
+	list-style: none;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.box-top {
+	width: 90%;
+	height: 57%;
+	margin: 0 auto;
+	border-top: 4px solid silver;
+	border-bottom: 1px solid silver;
+
+}
+.top-left {
+	width: 60%;
+	height: 88%;
+	margin-top: 20px;
+	line-height: 35px;
+	float: left;
+}
+.top-left-1 {
+	width: 20%;
+	height: 100%;
+    display: inline-block;
+}
+.top-left-2 {
+	width: 25%;
+	height: 60%;
+	display: inline-block;
+	float: right;
+
+}
+.top-left-1-top {
+	width: 100%;
+	padding-bottom: 15px;
+	border-bottom: 1px solid silver;
+}
+.top-left-1 a {
+	font-weight: bold;
+}
+.top-left-1-bottom {
+	width: 100%;
+	margin-top: 14px;
+}
+.top-right {
+	width: 38%;
+	height: 88%;
+	float: right;
+    border-left: 1px solid silver;
+    margin-top: 20px;
+	
+}
+.top-right-left {
+	width: 36%;
+	float: left;
+}
+ul.menu-3 {
+	line-height: 35px;
+	padding-left: 20px;
+
+}
+.top-right-right {
+	width:57%;
+	height: 100%;
+	float: right;
+	padding-left: 20px;
+	border-left: 1px solid silver;
+}
+.top-right-right h2 {
+    color: silver;
+    font-size: 17px;
+    font-weight: inherit;
+}
+.top-right-center {
+	width:100%;
+	height: 60px;
+}
+.center1 {
+	width: 50%;
+	float: left;
+	padding-top: 10px;
+}
+.img {
+	width: 20%;
+	float: left;
+}
+.text {
+	width: 90%;
+	}
+.center2 {
+	width: 50%;
+	float: right;
+	padding-top: 10px;
+}
+.top-right-bottom {
+	width: 100%;
+	border-top: 1px solid silver;
+}
+.top-right-bottom h2 {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.text1 {
+	width: 49%;
+	float: left;
+}
+.text2 {
+	width: 46%;
+	float: right;
+}
+.top-right-bottom p {
+	font-weight: bold;
+	font-size: 19px;
+}
+.box-bottom {
+	width: 90%;
+    height: 35%;
+    margin: 0 auto;
+    /*border-bottom: 1px solid silver;*/
+}
+.bottom-left {
+	width: 66%;
+	float: left;
+}
+.bottom-left img {
+	margin-top: 20px;
+}
+.box-bottom-left {
+	width: 37%;
+	float: left;
+	margin-top: 13px;
+}
+.box-bottom-center {
+	width: 55%;
+	float: right;
+	margin-top: 13px;
+}
+.bottom-right {
+	width: 32%;
+	float: right;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.box-bottom-right-top {
+	width: 100%;
+	height: 52px;
+	color: silver;
+}
+.bottom-text {
+	width: 10%;
+	float: left;
+	border-right: 1px solid silver;
+}
+.bottom-text1 {
+	width: 88%;
+	float: right;
+}
+.bottom-text2 {
+	width: 60%;
+	float: left;
+}
+.bottom-img {
+	width: 30%;
+	float: left;
+	margin-top: -20px;
+}
